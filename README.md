@@ -1,4 +1,4 @@
-# Образ контейнера Docker проекта Django в сборе с PostgreSQL, Gunicorn, Nginx, созданный в операционной системе Ubuntu для  Skillfactory.
+# Образ контейнера Docker c проектом Django в сборе с PostgreSQL, Gunicorn, Nginx, созданный в операционной системе Ubuntu для  Skillfactory.
 Инструкция для запуска контейнера
 1. Создать каталог (к примеру mkdir docker)
 2. Скопировать "myscript.sh" и "Dockerfile", размещенные в настоящем репозитарии.
