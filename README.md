@@ -1,4 +1,4 @@
-# Образ контейнера Docker c пустым проектом Django в сборе с PostgreSQL, Gunicorn, Nginx, созданный в операционной системе Ubuntu для  Skillfactory
+# Образ контейнера Docker c пустым проектом Django в сборе с PostgreSQL, Gunicorn, Nginx, созданный в операционной системе Ubuntu по заданию для  Skillfactory
 Инструкция для запуска контейнера:
 1. Создать каталог (mkdir docker).
 2. Перейти в каталог (cd docker).
